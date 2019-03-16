@@ -18,7 +18,7 @@
             android:layout_column="0"
             android:layout_height="@dimen/img_height_width"
             android:layout_width="@dimen/img_height_width"
-            android:src="@drawable/facebook" />
+            android:src="@drawable/fbook" />
 
         <ImageView
             android:id="@+id/img01"
